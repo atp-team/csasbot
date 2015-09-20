@@ -1,0 +1,14 @@
+development:
+  adapter: postgresql
+  encoding: unicode
+  database: csbot_development
+  pool: 5
+
+
+production:
+  adapter: postgresql
+  encoding: unicode
+  database: dbtuejb346rrc2
+  pool: 5
+  username: hkstnvgenadlde
+  password: s42FKQU4yC_YyX0F_yS4kipauW

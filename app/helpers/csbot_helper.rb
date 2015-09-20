@@ -1,0 +1,2 @@
+module CsbotHelper
+end
